@@ -1,0 +1,17 @@
+Wed Apr 10 22:37:02 PDT 2024
+user: mackenziesanchez
+home: /Users/mackenziesanchez
+shell: /bin/zsh
+pwd: /Users/mackenziesanchez
+path: /usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/TeX/texbin
+Darwin Mackenzies-MacBook-Pro-4.local 23.4.0 Darwin Kernel Version 23.4.0: Fri Mar 15 00:12:41 PDT 2024; root:xnu-10063.101.17~1/RELEASE_ARM64_T8103 arm64
+Python 3.9.6
+/Users/mackenziesanchez/Code
+/Users/mackenziesanchez/Code/mcb185_homework
+/Users/mackenziesanchez/Code/mcb185_homework/.git
+/Users/mackenziesanchez/Code/MCB185
+/Users/mackenziesanchez/Code/MCB185/ref
+/Users/mackenziesanchez/Code/MCB185/course
+/Users/mackenziesanchez/Code/MCB185/.git
+/Users/mackenziesanchez/Code/MCB185/data
+/Users/mackenziesanchez/Code/MCB185/src
