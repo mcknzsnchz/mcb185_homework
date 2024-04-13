@@ -106,7 +106,7 @@ kd_val("UAU")
 kd_val("AAG")
 kd_val("AGG")
 
-
+# surely there must have been an easier way of doing this
 
 
 
